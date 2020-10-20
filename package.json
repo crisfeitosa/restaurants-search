@@ -43,8 +43,8 @@
     "prettier": "^1.19.1"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "start": "yarn start",
+    "build": "yarn build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
