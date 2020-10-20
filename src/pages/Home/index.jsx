@@ -17,7 +17,6 @@ import {
   ModalTitle,
   ModalContent,
 } from './styles';
-import Lottie from 'react-lottie';
 
 const Home = () => {
   const [inputValue, setInputValue] = useState('');

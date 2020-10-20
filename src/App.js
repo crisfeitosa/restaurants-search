@@ -5,7 +5,7 @@ import { Reset } from 'styled-reset';
 
 import store from './redux/store';
 import theme from './theme';
-import Home from './pages/Home ';
+import Home from './pages/Home';
 
 function App() {
   return (
